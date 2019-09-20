@@ -1,3 +1,3 @@
 # Distance-Meter
 Reads distance using Ultrasonic sensor and displays on LCD using an Arduino + 
-Has some extra features
+Has some extra features for convenience of the user
